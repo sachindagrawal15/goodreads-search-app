@@ -20,3 +20,6 @@ Welcome to Goodreads Search App
 2. Incorporate Review / Ratings functionalities within book details
 3. Incorporate Author details view and display all books by an Author
 4. Enhance the app to recommend books based on users preference / prior visits
+
+###Screenshots of Results of few Cases in file Results Screenshots.docx
+Please see Results Screenshots.docx
